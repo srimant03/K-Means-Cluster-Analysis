@@ -1,1 +1,2 @@
 # K-Means-Cluster-Analysis
+Performed a clustering analysis to categorize countries based on socio-economic and health factors such as child mortality, exports, health spending, imports, income, inflation, life expectancy, total fertility rate, and GDP per capita. The countries were classified into 3 clusters corresponding to developed, developing and under-developed nations by identifying the optimal number of clusters using both the elbow method and silhouette score. Conducted a thourough analysis to identify the characteristics of each cluster.
